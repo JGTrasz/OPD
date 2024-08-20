@@ -28,6 +28,9 @@ if (isset($_POST['submit'])) {
     <link rel="stylesheet" href="assets/css/fontawsom-all.min.css">
     <link rel="stylesheet" href="assets/css/animate.css">
     <link rel="stylesheet" type="text/css" href="assets/css/style.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z4G4fA7+7DXt<ctrl63">
+    <script src="https://kit.fontawesome.com/68012e29cb.js" crossorigin="anonymous"></script>
+
 </head>
 
 <body>
@@ -168,20 +171,38 @@ if (isset($_POST['submit'])) {
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="single-key">
-                        <i class="fas fa-capsules"></i>
-                        <h5>Pharma Pipeline</h5>
+                        <i class="fa-solid fa-lungs"></i>
+                        <h5>Pulmonology</h5>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="single-key">
-                        <i class="fas fa-prescription-bottle-alt"></i>
-                        <h5>Pharma Team</h5>
+                        <i class="fa fa-balance-scale"></i>
+                        <h5>Endocrinology</h5>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="single-key">
-                        <i class="far fa-thumbs-up"></i>
-                        <h5>High Quality treatments</h5>
+                        <i class="fas fa-apple-alt"></i>
+                        <h5>Nutritionist</h5>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="single-key">
+                        <i class="fa-solid fa-bacterium"></i>
+                        <h5>Gastroenterology</h5>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="single-key">
+                        <i class="far fa-eye"></i>
+                        <h5>Opthalmology</h5>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="single-key">
+                        <i class="fas fa-baby"></i>
+                        <h5>Pediatrics</h5>
                     </div>
                 </div>
             </div>
