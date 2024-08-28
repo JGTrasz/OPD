@@ -236,29 +236,60 @@ if (isset($_POST['submit'])) {
             <div class="row">
                 <div class="gallery-filter d-none d-sm-block">
                     <button class="btn btn-default filter-button" data-filter="all">All</button>
-                    <button class="btn btn-default filter-button" data-filter="hdpe">Dental</button>
+                    <button class="btn btn-default filter-button" data-filter="hdpe">Endocrinology</button>
                     <button class="btn btn-default filter-button" data-filter="sprinkle">Cardiology</button>
                     <button class="btn btn-default filter-button" data-filter="spray">Neurology</button>
+                    <button class="btn btn-default filter-button" data-filter="eyes">Opthalmology</button>
+                    <button class="btn btn-default filter-button" data-filter="food">Nutritionist</button>
+                    <button class="btn btn-default filter-button" data-filter="lungs">Pulmonology</button>
+                    <button class="btn btn-default filter-button" data-filter="dirt">Gastroenterology</button>
                     <button class="btn btn-default filter-button" data-filter="irrigation">Laboratry</button>
                 </div>
                 <br />
                 <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter hdpe">
-                    <img src="assets/images/gallery/gallery_01.jpg" class="img-responsive">
+                    <img src="assets/images/gallery/Endo_1.jpg" class="img-responsive">
                 </div>
                 <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter sprinkle">
-                    <img src="assets/images/gallery/gallery_02.jpg" class="img-responsive">
+                    <img src="assets/images/gallery/Cardio_1.jpg" class="img-responsive">
+                </div>
+                <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter eyes">
+                    <img src="assets/images/gallery/Opthal_1.jpg" class="img-responsive">
+                </div>
+                <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter food">
+                    <img src="assets/images/gallery/Nutri_1.jpg" class="img-responsive">
+                </div>
+                <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter lungs">
+                    <img src="assets/images/gallery/Pulmo_1.jpg" class="img-responsive">
+                </div>
+                <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter dirt">
+                    <img src="assets/images/gallery/Gastro_1.jpg" class="img-responsive">
+                </div>
+                <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter eyes">
+                    <img src="assets/images/gallery/Opthal_2.jpg" class="img-responsive">
+                </div>
+                <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter food">
+                    <img src="assets/images/gallery/Nutri_2.jpg" class="img-responsive">
+                </div>
+                <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter lungs">
+                    <img src="assets/images/gallery/Pulmo_2.jpg" class="img-responsive">
+                </div>
+                <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter dirt">
+                    <img src="assets/images/gallery/Gastro_2.jpg" class="img-responsive">
                 </div>
                 <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter hdpe">
-                    <img src="assets/images/gallery/gallery_03.jpg" class="img-responsive">
+                    <img src="assets/images/gallery/Endo_2.jpg" class="img-responsive">
+                </div>
+                <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter sprinkle">
+                    <img src="assets/images/gallery/Cardio_2.jpg" class="img-responsive">
                 </div>
                 <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter irrigation">
-                    <img src="assets/images/gallery/gallery_04.jpg" class="img-responsive">
+                    <img src="assets/images/gallery/Lab_1.jpg" class="img-responsive">
                 </div>
                 <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter spray">
-                    <img src="assets/images/gallery/gallery_05.jpg" class="img-responsive">
+                    <img src="assets/images/gallery/Neuro_1.jpg" class="img-responsive">
                 </div>
                 <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter spray">
-                    <img src="assets/images/gallery/gallery_06.jpg" class="img-responsive">
+                    <img src="assets/images/gallery/Neuro_2.jpg" class="img-responsive">
                 </div>
             </div>
         </div>
